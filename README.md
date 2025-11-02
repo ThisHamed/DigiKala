@@ -41,6 +41,8 @@ This project is a showcase of modern, scalable Android development practices.
 
 **Disclaimer:** This application is a clone created for educational purposes and is not affiliated with Digikala in any way. All trademarks, service marks, and logos are the property of their respective owners.
 
+*
+
 <img width="330" height="644" alt="278295629-d6af119c-a4f2-44a6-8e00-fa88563afaec" src="https://github.com/user-attachments/assets/9778e22a-bff9-43ca-ab98-b7b9fcdd2437" />
 <img width="325" height="630" alt="278295941-1d540059-eec2-430b-9fbc-e39201a09c9f" src="https://github.com/user-attachments/assets/41933c59-e393-4026-adf9-ed0f99d2ac0b" />
 <img width="334" height="636" alt="278295915-3a17c17e-66e5-428b-a5e8-8409806acaa6" src="https://github.com/user-attachments/assets/148ecb58-c1fc-4ae4-a334-01249eada229" />
@@ -48,3 +50,4 @@ This project is a showcase of modern, scalable Android development practices.
 <img width="337" height="620" alt="278295820-cf050db1-1dfc-4757-87fd-c30fe5229198" src="https://github.com/user-attachments/assets/2a6eae81-fc7f-4d6d-80df-31c48690458b" />
 <img width="321" height="625" alt="278295725-bbc39e6b-57af-4d3a-9902-d56809c2da91" src="https://github.com/user-attachments/assets/3344a62c-391d-4806-8572-0895a096c009" />
 <img width="395" height="852" alt="Screenshot 2025-11-02 182521" src="https://github.com/user-attachments/assets/69d5d7b0-8173-43c6-abdc-4989daccf8f3" />
+
